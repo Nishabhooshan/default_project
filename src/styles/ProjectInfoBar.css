@@ -1,0 +1,16 @@
+.project-info-bar {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+  }
+  
+  .info-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
